@@ -1,3 +1,3 @@
 # simon-game
 
-Simon game web application using javascript and jquery
+Simon game web using javascript and jquery
